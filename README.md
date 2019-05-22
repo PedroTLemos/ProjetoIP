@@ -1,2 +1,2 @@
 # ProjetoIP
-Va tomar no cu, por favor.
+Va tomar no cu, porra.
