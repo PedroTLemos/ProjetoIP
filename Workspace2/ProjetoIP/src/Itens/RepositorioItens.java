@@ -11,5 +11,7 @@ public interface RepositorioItens {
 	public Item procurar(String nome) throws ItemNaoEncontradoException;
 	
 	public boolean existe(String nome);
+	
+	public String toString(String S);
 
 }
